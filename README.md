@@ -11,3 +11,5 @@ Here are the answers to [120 Data Science Interview Questions](http://www.datasc
 - [Statistical Inference](statistical-inference.md)
 
 Feel free to send me a pull request if you find any mistakes or have better answers.
+
+Readings on Amazon: [2019 Top U.S. Tech Job Readings](https://amzn.to/2zC0ftz)
